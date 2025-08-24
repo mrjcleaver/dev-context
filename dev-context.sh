@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-# whereami - Detect where this shell script is running (Docker, Codespaces, macOS, etc.)
+# From https://github.com/mrjcleaver/dev-context
+# dev-context - Detect where this shell script is running (Docker, Codespaces, macOS, etc.)
 
 print_section() {
   echo ""
